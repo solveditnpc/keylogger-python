@@ -15,9 +15,9 @@
 
 Only 2 antivirus providers detected this script (Google and Sophos) due to system information collection feature of the script. The script is undetected by Kaspersky,McAfee and Windows Defender. To avoid detection by google and sophos, do not use the system information collection feature.
 -EMAIL.py
-![Email Test Results](email_test1.png)
+![Email Test Results](images/email_test1.png)
 -SERVER.py
-![Server Test Results](server_test1.png)
+![Server Test Results](images/server_test1.png)
 
 ## Prerequisites
 
